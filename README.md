@@ -1,2 +1,1 @@
-# IAGCoin
-IAGCoin
+# SWB Coin
